@@ -8,9 +8,10 @@
  * Software Foundation; either version 2 of the License, or (at your option) 
  * any later version.
  *****************************************************************************/
+    require_once "classes/db.php";
 
     //$connection = mysql_connect("localhost", "oirschotheren1", "strafCRNR!");
-    $connection = new PDO('mysql:host=localhost;dbname=heren1_oud;charset=utf8mb4', 'oirschotheren1', 'strafCRNR!');
+    $connection = new PDO("mysql:host={$host};dbname={$dbname};charset=utf8mb4", $username, $password);
     
     class DB
     {

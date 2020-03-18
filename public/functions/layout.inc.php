@@ -71,23 +71,16 @@ END;
 					</div>
 					
 				    <div class="menu" id="hockeymenu">
-				        <a href="" class="amenu" rel="home">Home</a>
 				        <a href="#" class="amenu" rel="spelers">Spelers</a>
 				        <a href="#" class="amenu" rel="teams">Teams</a>
-				        <a href="#" class="amenu" rel="competitie">Competitie</a>
-				        <a href="#" class="amenu" rel="statistiek">Statistiek</a>
-				        <a href="#" class="amenu" rel="gastenboek">&nbsp;</a>
-				        <a href="#" class="amenu" rel="multimedia">&nbsp;</a>
+				        <a href="#" class="amenu" rel="milestones">Milestones</a>
+				        <a href="#" class="amenu" rel="statistiek">&nbsp</a>
+				        <a href="#" class="amenu" rel="gastenboek">&nbsp</a>
+				        <a href="#" class="amenu" rel="multimedia">&nbsp</a>
+				        <a href="#" class="amenu" rel="home">&nbsp</a>
 				    </div>
-					    
-				    <div id="home" class="dropmenudiv">
-					    <a href="index.php" class="dropdown">
-					        Home</a>
-					</div>
 					
 					<div id="spelers" class="dropmenudiv">
-					    <a href="spelers_seizoen.php" class="dropdown">
-					        Dit seizoen</a>
 					    <a href="spelers_oat.php" class="dropdown">
 					        Alle spelers</a>
                         <a href="spelers_table.php" class="dropdown">
@@ -95,44 +88,19 @@ END;
 					</div>
 					
 					<div id="teams" class="dropmenudiv">
-					    <a href="teams_seizoen.php" class="dropdown">
-					        Dit seizoen</a>
 					    <a href="teams_oat.php" class="dropdown">
 					        Alle teams</a>
 					</div>
 					
-					<div id="competitie" class="dropmenudiv">
-					    <a href="svz.php" class="dropdown">
-					        Stand van zaken</a>
-					    <a href="spj.php" class="dropdown">
-					        Stand Kalenderjaar</a>
-					     <a href="rangen_standen.php" class="dropdown">
-					        Rangen & Standen</a>  
+					<div id="milestones" class="dropmenudiv">
+					    <a href="debuut.php" class="dropdown">
+					        Debuut</a>
+					    <a href="debuut_goal.php" class="dropdown">
+					        Eerste goal</a>
+					     <a href="debuut_assist.php" class="dropdown">
+					        Eerste assist</a>  
 					</div>
 					
-					<div id="statistiek" class="dropmenudiv">
-					    <a href="stand.php" class="dropdown">
-					        Stand</a>
-					    <a href="goals_statistiek.php" class="dropdown">
-					        Goals</a>
-					</div>
-					
-					<!--<div id="gastenboek" class="dropmenudiv">-->
-					    <!--<a href="gastenboek_tekenen.php" class="dropdown">-->
-					        <!--Tekenen</a>-->
-					    <!--<a href="gastenboek_bekijken.php" class="dropdown">-->
-					        <!--Bekijken</a>-->
-					<!--</div>-->
-					<!---->
-					<!--<div id="multimedia" class="dropmenudiv">-->
-					    <!--<a href="http://svgewis.win.tue.nl/~geert/heren1fotos/fotoarchief.php" target="new"-->
-									<!--title="fotos" class="dropdown">-->
-					        <!--Foto's</a>-->
-					    <!--<a href="" title="videos" class="dropdown">-->
-					        <!--Video's</a>-->
-					    <!--<a href="3ehelft.php" title="videos" class="dropdown">-->
-					        <!--Verslagen</a>-->
-					<!--</div>-->
 					
 					<script type="text/javascript">
 					    menudropdown.startmenu('hockeymenu');
