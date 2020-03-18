@@ -10,7 +10,6 @@
  *****************************************************************************/
     require_once "classes/db.php";
 
-    //$connection = mysql_connect("localhost", "oirschotheren1", "strafCRNR!");
     $connection = new PDO("mysql:host={$host};dbname={$dbname};charset=utf8mb4", $username, $password);
     
     class DB
