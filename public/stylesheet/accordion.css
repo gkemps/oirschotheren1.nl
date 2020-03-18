@@ -1,0 +1,94 @@
+dl.accordion-menu {
+	margin: 0;
+	padding: 0;
+	background:#DAFFDB;
+	border: 1px solid #00937A;
+	font-family: Arial, Verdana;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+dl.accordion-menu dt.a-m-t {
+	margin: 0;
+	background: #00937A;
+	color: #ffffff;
+	border: solid 1px #91BD93;
+	padding: 5px;
+	text-align: left;
+	float: clear;
+}
+
+dl.accordion-menu dt.a-m-t-vroegah {
+    margin: 0;
+    background: #91BD93;
+    color: #ffffff;
+    border: solid 1px #91BD93;
+    padding: 5px;
+    text-align: left;
+    float: clear;
+}
+
+dl.accordion-menu dt.a-m-t-hover{
+	background:#91BD93;
+	color:#004A3B; 
+	z-index: -1;
+}
+
+
+dl.accordion-menu dt.a-m-t-down{
+	background:#91BD93;
+	color:#004A3B; 
+	border: 1px solid #00937A;
+}
+
+html.accordion-menu-js dt.a-m-t{
+	cursor:pointer;
+	zoom:1;
+}
+
+dl.accordion-menu dd.a-m-d {
+	margin: 0;
+	padding: 0;
+	padding:0;
+	overflow-y: auto;
+	height: 200px;
+}
+
+html.accordion-menu-js dd.a-m-d{
+	display:none;
+}
+
+
+html.accordion-menu-js dd.a-m-d-expand {
+	display:block;
+}
+
+html.accordion-menu-js dd.a-m-d-before-expand {
+	display:block;
+	position:relative;
+	z-index:-1;
+	opacity:0;
+	height:auto !important;
+	visibility:hidden;
+	overflow:visible;
+}
+
+
+html.accordion-menu-js dt.a-m-t-expand {
+	background:#91BD93;
+	color:#00937A;
+	border: 1px solid #00937A;
+}
+
+html.accordion-menu-js dd.a-m-d-anim {
+	overflow:scroll;
+	display:block;	
+}
+
+dl.accordion-menu dd.a-m-d .bd{
+	padding: 0px 5px 5px 5px;
+	font-weight: normal;
+	font-size: 10pt;
+	color: #004A3B;
+	text-align: left;
+}

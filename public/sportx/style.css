@@ -1,0 +1,18 @@
+BODY {
+	background : #DAFFDB;
+	color: #00937A;
+	padding-left: 10px;
+}
+
+h2 {
+	color: #00937A;
+}
+
+div{
+	
+}
+
+a:link              { color:#00937A; text-decoration:underline; font-weight:bold; }
+a:visited           { color:#00937A; text-decoration:underline; font-weight:bold;}
+a:hover             { color:#00937A; text-decoration:underline; font-weight:bold;}
+a:active            { color:#00937A; text-decoration:underline; font-weight:bold;}

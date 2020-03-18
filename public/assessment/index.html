@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+      <div>
+          <form method="post" action="search.php">
+              <table>
+                  <tr>
+                      <td>
+                          Zoeken:
+                      </td>
+                      <td>
+                          <input type="text" name="query"/>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td> </td>
+                      <td>
+                          All:
+                          <input type="radio" name="all" value="1" checked/>
+                          Any:
+                          <input type="radio" name="all" value="0"/>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td>
+                          Adres:
+                      </td>
+                      <td>
+                          <input type="text" name="adres"/>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td>Sorteren:</td>
+                      <td>
+                          <select name="sort">
+                              <option value="date">Datum</option>
+                              <option value="user">Username</option>
+                              <option value="source">Bron</option>
+                          </select>
+                          <select name="dir">
+                              <option value="asc">Oplopend</option>
+                              <option value="desc">Aflopend</option>
+                          </select>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td colspan="2">
+                          <input type="submit" name="submit" value="Verstuur"/>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td colspan="2">
+                          - zoeken op termen gescheiden door spaties<br />
+                          - zoeken op username via extra term user:<i>username</i><br />
+                          - evt. zoeken op adres analoog aan Google Maps<br />
+                      </td>
+                  </tr>
+              </table>
+          </form>
+      </div>
+  </body>
+</html>

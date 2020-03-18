@@ -1,0 +1,564 @@
+[21-Jan-2011 15:52:10] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 218 bytes) in /home/oirschot/public_html/seminar/sentiword.php on line 11
+[21-Jan-2011 15:52:50] PHP Fatal error:  Allowed memory size of 16777216 bytes exhausted (tried to allocate 16 bytes) in /home/oirschot/public_html/seminar/sentiword.php on line 12
+[21-Jan-2011 15:53:01] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 35 bytes) in /home/oirschot/public_html/seminar/sentiword.php on line 12
+[21-Jan-2011 16:06:05] PHP Fatal error:  Database query failed: INSERT INTO sentiword (pos, id, posscore, posnegscore, term, gloss) VALUES (NULL, NULL, NULL, NULL, '', NULL) - Error:Unknown column 'posnegscore' in 'field list' in /home/oirschot/public_html/seminar/classes/class.db.php on line 66
+[21-Jan-2011 16:06:38] PHP Fatal error:  Database query failed: INSERT INTO sentiword (pos, id, posscore, posnegscore, term, gloss) VALUES ('a', '00001740', '0.125', '0', 'able', '(usually followed by `to\') having the necessary means or skill or know-how or authority to do something; \"able to swim\"; \"she was able to program her computer\"; \"we were at last able to buy a car\"; \"able to get a grant for the project\"\n') - Error:Unknown column 'posnegscore' in 'field list' in /home/oirschot/public_html/seminar/classes/class.db.php on line 66
+[21-Jan-2011 16:07:39] PHP Fatal error:  Database query failed: INSERT INTO sentiword (pos, id, posscore, negscore, term, gloss) VALUES ('a', '00002312', '0', '0', 'abaxial', 'facing away from the axis of an organ or organism; \"the abaxial surface of a leaf is the underside or side facing away from the stem\"\n') - Error:Duplicate entry 'a-2312' for key 1 in /home/oirschot/public_html/seminar/classes/class.db.php on line 66
+[21-Jan-2011 16:08:27] PHP Fatal error:  Database query failed: INSERT INTO sentiword (pos, id, posscore, negscore, term, gloss) VALUES ('a', '00002312', '0', '0', 'abaxial', 'facing away from the axis of an organ or organism; \"the abaxial surface of a leaf is the underside or side facing away from the stem\"\n') - Error:Duplicate entry 'a-2312' for key 1 in /home/oirschot/public_html/seminar/classes/class.db.php on line 66
+[21-Jan-2011 16:09:03] PHP Fatal error:  Database query failed: INSERT INTO sentiword (pos, id, posscore, negscore, term, gloss) VALUES ('a', '00002312', '0', '0', 'abaxial', 'facing away from the axis of an organ or organism; \"the abaxial surface of a leaf is the underside or side facing away from the stem\"\n') - Error:Duplicate entry 'a-2312' for key 1 in /home/oirschot/public_html/seminar/classes/class.db.php on line 66
+[21-Jan-2011 16:09:24] PHP Fatal error:  Database query failed: INSERT INTO sentiword (pos, id, posscore, negscore, term, gloss) VALUES ('a', '00002312', '0', '0', 'abaxial', 'facing away from the axis of an organ or organism; \"the abaxial surface of a leaf is the underside or side facing away from the stem\"\n') - Error:Duplicate entry 'a-00002312' for key 1 in /home/oirschot/public_html/seminar/classes/class.db.php on line 66
+[21-Jan-2011 16:55:04] PHP Notice:  Use of undefined constant DBHOST - assumed 'DBHOST' in /home/oirschot/public_html/seminar/classes/class.db.php on line 12
+[21-Jan-2011 16:55:04] PHP Notice:  Use of undefined constant DBUSER - assumed 'DBUSER' in /home/oirschot/public_html/seminar/classes/class.db.php on line 12
+[21-Jan-2011 16:55:04] PHP Notice:  Use of undefined constant DBPASS - assumed 'DBPASS' in /home/oirschot/public_html/seminar/classes/class.db.php on line 12
+[21-Jan-2011 16:55:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DBHOST' (1) in /home/oirschot/public_html/seminar/classes/class.db.php on line 12
+[21-Jan-2011 16:55:04] PHP Fatal error:  De database kan niet geopend worden in /home/oirschot/public_html/seminar/classes/class.db.php on line 13
+[21-Jan-2011 17:09:19] PHP Parse error:  syntax error, unexpected ';' in /home/oirschot/public_html/seminar/parse.php on line 75
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  south korean naval special forces stormed a hijacked ship early friday and rescued 21 sailors and killed a number of pirates in the arabian sea in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  south korean naval special forces stormed a hijacked ship early friday and rescued 21 sailors and killed a number of pirates in the arabian seb in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+five suspected kidnappers were captured in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+five suspected kidnappers were capturee in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+president lee myung-bak went live on national television to announce the successful conclusion of the five-hour operation, 1,300 kilometers northeast of somalia in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+president lee myung-bak went live on national television to announce the successful conclusion of the five-hour operation, 1,300 kilometers northeast of somalib in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+mr in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+ms in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   lee told the country south korea will not tolerate future attacks on any of its nationals in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   lee told the country south korea will not tolerate future attacks on any of its nationalt in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the president says the military conducted the rescue operation perfectly under difficult circumstances in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the president says the military conducted the rescue operation perfectly under difficult circumstancet in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   he says he appreciates the action of the forces and that it sends a message of encouragement in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   he says he appreciates the action of the forces and that it sends a message of encouragemenu in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the norwegian-owned samho jewelry was heading to sri lanka from the united arab emirates when it was seized last saturday, 650 kilometers southeast of the port of muscat in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the norwegian-owned samho jewelry was heading to sri lanka from the united arab emirates when it was seized last saturday, 650 kilometers southeast of the port of muscau in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   
+
+mr in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   
+
+ms in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   lee added that other countries assisted with the raid but he did not elaborate in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   lee added that other countries assisted with the raid but he did not elaboratf in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   news reports say a navy ship from oman was on the scene to support the south korean operation in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   news reports say a navy ship from oman was on the scene to support the south korean operatioo in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   
+
+on board the malta-flagged chemical tanker was a crew of 11 burmese, eight south koreans and two indonesians in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   
+
+on board the malta-flagged chemical tanker was a crew of 11 burmese, eight south koreans and two indonesiant in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   it is operated by south korea’s samho shipping in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   it is operated by south korea’s samho shippinh in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+military officials in seoul say a south korean naval destroyer, the choi young, with 300 special forces aboard, tailed the hijacked ship for days before moving in early friday in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+military officials in seoul say a south korean naval destroyer, the choi young, with 300 special forces aboard, tailed the hijacked ship for days before moving in early fridaz in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+army lieutenant general lee seong-ho, at the joint chiefs of staff, says at least eight of the kidnappers died while the skipper of the seized ship was shot in the stomach by the pirates in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+army lieutenant general lee seong-ho, at the joint chiefs of staff, says at least eight of the kidnappers died while the skipper of the seized ship was shot in the stomach by the piratet in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   his injuries are not considered life-threatening in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   his injuries are not considered life-threateninh in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+general lee says three of the rescuers suffered minor injuries as they came under fire from the kidnappers in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+general lee says three of the rescuers suffered minor injuries as they came under fire from the kidnappert in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the general says the operation demonstrates south korea’s strong will to never negotiate with pirates in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the general says the operation demonstrates south korea’s strong will to never negotiate with piratet in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the government had vowed not endure a repeat of last year’s hijacking of an oil tanker also operated by samho shipping in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the government had vowed not endure a repeat of last year’s hijacking of an oil tanker also operated by samho shippinh in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the samho dream and its crew were freed after 217 days, reportedly following a ransom payment of more than $9 million in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+the samho dream and its crew were freed after 217 days, reportedly following a ransom payment of more than $9 millioo in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+that prompted criticism here that the payment would encourage pirates to more aggressively target south korean vessels in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+that prompted criticism here that the payment would encourage pirates to more aggressively target south korean vesselt in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+a number of navies, from both developed and emerging nations, have intensified patrols in the pirate-infested waters surrounding somalia in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:  
+
+a number of navies, from both developed and emerging nations, have intensified patrols in the pirate-infested waters surrounding somalib in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   most of the pirates are based in somalia, which has not had a functioning government for the past 20 years in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   most of the pirates are based in somalia, which has not had a functioning government for the past 20 yeart in /home/oirschot/public_html/seminar/parse.php on line 108
+[21-Jan-2011 17:26:41] PHP Notice:  Undefined index:   in /home/oirschot/public_html/seminar/parse.php on line 93
+[21-Jan-2011 17:26:41] PHP Warning:  Invalid argument supplied for foreach() in /home/oirschot/public_html/seminar/parse.php on line 97
+[21-Jan-2011 17:37:42] PHP Warning:  Division by zero in /home/oirschot/public_html/seminar/parse.php on line 111
+[21-Jan-2011 17:37:42] PHP Warning:  Division by zero in /home/oirschot/public_html/seminar/parse.php on line 111
+[21-Jan-2011 17:37:42] PHP Warning:  Division by zero in /home/oirschot/public_html/seminar/parse.php on line 111
+[21-Jan-2011 17:37:42] PHP Warning:  Division by zero in /home/oirschot/public_html/seminar/parse.php on line 111
+[21-Jan-2011 17:37:42] PHP Warning:  Division by zero in /home/oirschot/public_html/seminar/parse.php on line 111
+[21-Jan-2011 17:37:42] PHP Warning:  Division by zero in /home/oirschot/public_html/seminar/parse.php on line 111
+[21-Jan-2011 17:37:42] PHP Warning:  Division by zero in /home/oirschot/public_html/seminar/parse.php on line 111
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:44:20] PHP Notice:  Undefined variable: words in /home/oirschot/public_html/seminar/parse.php on line 85
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: prefix in /home/oirschot/public_html/seminar/parse.php on line 47
+[21-Jan-2011 17:49:52] PHP Notice:  Undefined variable: postfix in /home/oirschot/public_html/seminar/parse.php on line 47
+[02-Feb-2011 12:27:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DBHOST' (1) in /home/oirschot/public_html/seminar/classes/class.db.php on line 12
+[02-Feb-2011 12:27:45] PHP Fatal error:  De database kan niet geopend worden in /home/oirschot/public_html/seminar/classes/class.db.php on line 13

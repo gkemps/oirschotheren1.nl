@@ -1,0 +1,2 @@
+[11-May-2010 15:05:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oirschot/public_html/sportx/index.php:16) in /home/oirschot/public_html/sportx/index.php on line 116
+[20-May-2011 09:17:13] PHP Parse error:  syntax error, unexpected $end in /home/oirschot/public_html/sportx/index.php on line 207

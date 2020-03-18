@@ -1,0 +1,511 @@
+/* <hoofd lay out> 
+oirschotgroen: #00937A
+oirschotgeel: #FFCC33
+oirschotachtergrond: #DAFFDB
+oirschottekst: #004A3B;
+#91BD93
+*/
+
+HTML{
+	height: 100%;
+}
+BODY{
+	background-color: white;
+	margin-top:0px;
+	font-family: Arial, Verdana;
+	color: #004A3B;
+	font-size: 10pt;
+	height: 100%;
+}
+
+/*DIV for matchsheet      */
+div.line{
+    float: left;
+    clear: left;
+    width: 600px;               
+}
+
+div.pos1{
+    width: 598px;
+    text-align: center;
+    float: left;                     
+}
+div.pos2{
+    width: 298px;
+    text-align: center;
+    float: left;               
+}
+div.pos3{
+    width: 198px;
+    text-align: center;
+    float: left;               
+}
+div.pos4{
+    width: 123px;
+    text-align: center;
+    float: left;               
+}
+
+table.playerbox{
+    margin-left: auto;
+    margin-right: auto;
+}
+/*END DIV for matchsheet */
+
+.totaldiv{
+ 	margin:0px;
+	background-color: #DAFFDB;
+	width: 872px;
+	border-left: 2px solid #00937A;
+	border-bottom: 2px solid #00937A;
+	height: 850px;
+}
+
+.left{
+	float: left;
+	width: 770px;
+}
+
+.right{
+	float: left;
+	width: 100px;
+}
+
+.contentdiv{
+ 	padding: 10px 5px 0px 15px;
+	text-align: left;
+	width: 750px; 
+	overflow: auto;
+	border: 0px solid red;
+	height: 700px;
+}
+
+.firstbar{
+	width: 50px;
+	background-color: #00937A;
+	float: left;
+	vertical-align: middle;
+	height: 850px;
+}
+
+.secondbar{
+	width: 50px;
+	background-color: #FFCC33;
+	float: left;
+	height: 100%; 
+	vertical-align: middle;
+	border-bottom: 2px solid #FFCC33;
+	height: 850px;
+}
+
+.sidebarpic{
+	margin-top: 250px;
+}
+
+.div_left{
+	float:left;
+}
+
+.div_right{
+	float: right;
+}
+
+.div_clear{
+	float: clear;
+}
+
+.div_tiny{
+	font-size: 8pt;
+}
+
+H2{
+	color: #004A3B;
+	font-style: italic;
+	border-bottom: 1px solid #00937A;
+}
+
+H3{
+	color: #004A3B;
+	font-style: italic;
+	border-bottom: 1px solid #00937A;
+}
+
+HR{
+   border: none;
+   border-bottom: 1px solid #004A3B;
+}
+
+.border_inv{
+	border: 1px solid #00937A;
+	opacity: 0;
+}
+
+div{
+	border: 0px solid red;
+}
+
+.border{
+	border: 0px solid #00937A;
+}
+
+TD{
+	font-family: Arial, Verdana;
+	color: #004A3B;
+	font-size: 10pt;
+	padding: 0px 5px 0px 5px;	
+}
+
+TD.td_big{
+	font-family: Arial, Verdana;
+	color: #004A3B;
+	font-size: 14pt;
+	padding: 0px 5px 0px 5px;	
+}
+
+TD.td_accordion{
+	font-size: 14pt;
+	color: #ffffff;
+}
+TD.td_accordion_small{
+	font-size: 10pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+TD.td_accordion_white{
+	text-align: right;
+	color: #ffffff;
+}
+TD.align_left{
+	text-align: left;
+}
+TD.align_right{
+	text-align: right;
+}
+
+TD.stand_header{
+	padding: 0px 2px 0px 2px;
+	border-bottom: 1px solid #00937A;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+TD.stand{
+	padding: 2px 2px 2px 2px;
+	text-align: right;
+	
+}
+
+.icon{
+	padding: 0px 1px 0px 1px;
+}
+
+
+A{font-size: 12px; color:#004A3B; text-decoration: none; }
+A:hover{font-size: 12px; color:#004A3B; text-decoration: underline;}
+
+
+/* drop down menu */
+
+A.amenu		{
+ 	display: block;
+ 	width: 98px;
+ 	color: white;
+	background-color: #00937A; 
+	text-decoration: none; 
+	text-align: center;
+	border-top: 2px solid white;
+	border-right: 2px solid white;
+	float:left;
+	padding: 5px 5px 5px 5px;
+}
+A.amenu:hover{
+ 	display: block;
+ 	width: 98px;
+ 	color: white;
+	background-color: #00937A; 
+	text-decoration: none;
+	text-align: center;
+	border-top: 2px solid white;
+	border-right: 2px solid white;
+	float: left;
+	padding: 5px 5px 5px 5px;
+}
+
+A.dropdown		{
+ 	display: block; 
+    color: white; 
+    text-decoration: none;
+	background-color: #00937A;
+	font-size: 10pt;
+    font-weight: bold;
+    font-style: italic;
+    padding: 2px 5px 2px 5px;
+}
+A.dropdown:hover{
+ 	display: block; 
+	color: black; 
+	background-color: #FFCC33;
+	text-decoration: none;
+	font-size: 10pt;
+    font-weight: bold;
+    font-style: italic;
+    padding: 2px 5px 2px 5px;
+}
+
+A.box{
+	margin: 0;
+	background: #00937A;
+	color: #ffffff;
+	border: solid 1px #91BD93;
+	padding: 3px;
+	text-align: left;
+	float: clear;
+	display: block;
+}
+
+A.box:hover{
+	background:#91BD93;
+	color:#004A3B; 
+	z-index: -1;
+	display:block;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.menu {
+    position: relative;
+    width: 770px;
+    text-align: left;
+    color: #00937A;
+    font-size: 10pt;
+    font-weight: bold;
+    background-color: #DAFFDB;
+}
+
+.menu:after {
+    content: ".";
+    display: block;
+    height: 0px;
+    clear: both;
+    visibility: hidden;
+}
+
+.dropmenudiv {
+    position: absolute;
+    text-align: left;
+    line-height: 20px;
+    z-index: 100;
+    background-color: #00937A;
+    width: 150px;
+    visibility: hidden;
+}
+
+/* Opstelling Lay Out */
+
+.opstelling_scores{
+	background-color: #00937A;
+	margin-bottom: 40px;
+	border: 3px solid #FFCC33;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.events{
+	background-color: #00937A;
+	margin-bottom: 40px;
+	border: 3px solid #FFCC33;
+	font-size: 12px;
+}
+
+.absent_players{
+	background-image: url(../images/blessure.jpg);
+	background-repeat: repeat-x;
+	background-position: left;
+	margin-bottom: 40px;
+	border: 3px solid #FFCC33;
+	font-size: 12px;
+}
+
+.bank_players{
+	background-image: url(../images/bankfoto.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-bottom: 40px;
+	border: 3px solid #FFCC33;
+	font-size: 12px;
+}
+
+.opstelling_right{
+	float: left;
+	margin-left: 40px;
+	width: 500px;
+}
+
+.players{
+	background-color: #00937A;
+	border: 3px solid #FFCC33;
+	padding: 10px 10px 10px 10px;
+	float: left;
+	clear: both;
+	margin-top: 10px;
+}
+
+.opst_player{
+	font-size: 8pt;
+	text-align: center;
+}
+
+.veld{
+	background-image: url(../images/veld.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 520px;
+	border: 3px solid #FFCC33;
+	padding: 5px 5px 5px 5px;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.veld_{
+    background-image: url(../images/veld.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 600px;
+    padding: 5px 5px 5px 5px;
+    float: left;        
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bank{
+	background-color: #00937A;
+	width: 175px;
+	border: 3px solid #FFCC33;
+	padding: 5px 5px 5px 5px;
+	float: left;
+	text-align: left;
+	vertical-align: middle;
+	margin-left: 20px;
+}
+
+.hockeybal{
+	width: 15px;
+	height: 15px;
+}
+
+.kaart{
+	margin-right: 2px;
+}
+
+.goals_hoover{
+	border: 1px solid #00937A;
+	background-color: #FFCC33;
+}
+
+.kaart_hoover{
+	border: 1px solid #00937A;
+	background-color: #FFCC33;
+}
+
+/* Einde Opstelling Lay Out */
+
+/* text lay out */
+
+.white_bold_12{
+	font-size: 12pt;
+	color: white;
+	font-weight: bold;
+}
+
+.bold_10{
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.normal_10{
+	font-size: 10pt;
+}
+
+.white_10{
+	font-size: 10pt;
+	color: white;
+}
+
+/* einde text lay out */
+
+/* drag en drop testing 
+oirschotgroen: #00937A
+oirschotgeel: #FFCC33
+
+*/
+.td{
+	border: 1px solid black;
+	font-family: Arial, Verdana;
+	font-size: 8pt;
+}
+
+.player_picture{
+	width: 60px;
+	height: 90px;
+	padding:0px;
+}
+
+.big_player_picture{
+	width: 120px;
+	height: 180px;
+	padding:0px;
+}
+
+.team_logo{
+	width: 100px;
+	height: 80px;
+	padding:0px;
+}
+
+.big_team_logo{
+	width: 150px;
+	height: 120px;
+	padding:0px;
+}
+
+.player_picbox{
+	border: 2px solid #FFCC33;
+	background-color: #00937A;
+	width: 60px;
+	height: 80px;
+	padding:0px;
+}
+
+.player_picbox_hover{
+	border: 2px solid #00937A;
+	background-color: #FFCC33;
+	width: 60px;
+	height: 80px;
+}
+
+.droppable{
+	width: 160px;
+	height: 100px;
+	background-color: white;
+	border: 1px solid black;
+}
+
+.droppable_accept{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	border: 1px solid black;
+}
+
+.player{
+	width: 50px;
+	height: 50px;
+}
+
+.player2{
+	width: 80px;
+	height: 80px;
+}

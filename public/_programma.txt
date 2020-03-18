@@ -1,0 +1,154 @@
+ZONDAG 13 SEPTEMBER 2015
+ 	Shot H1	Nuenen H1	14:45	Sportp. Leemkuilen
+ 	Waalwijk H1	Oirschot H1	14:45	sportp. 'D'n Donk'
+ 	Drunen H1	Best H1	14:45	Sportp. Lissevoort
+ 	Berlicum H1	Son H1	14:30	Sportp. 'Moorland'
+ 	Dommel H1	Vlijmen H1	14:45	Sportp. 'De Gentlaan'
+ 	DDHC H1	HOCO H1	14:30	Sportp. 'Hoge Heide'
+ZONDAG 20 SEPTEMBER 2015
+ 	Best H1	DDHC H1	14:45	Sportp. Leemkuilen
+ 	HOCO H1	Shot H1	14:45	sportp. 'D'n Donk'
+ 	Nuenen H1	Dommel H1	14:45	Sportp. Lissevoort
+ 	Oirschot H1	Drunen H1	14:30	Sportp. 'Moorland'
+ 	Son H1	Waalwijk H1	14:45	Sportp. 'De Gentlaan'
+ 	Vlijmen H1	Berlicum H1	14:30	Sportp. 'Hoge Heide'
+ZONDAG 27 SEPTEMBER 2015
+ 	Berlicum H1	Nuenen H1	14:45	Sportp. de Brand
+ 	Best H1	HOCO H1	14:45	Sportp. Leemkuilen
+ 	DDHC H1	Oirschot H1	14:30	Sportp.Kloosterweg
+ 	Dommel H1	Shot H1	14:45	Hockeyp. Zegenwerp
+ 	Drunen H1	Son H1	14:30	Rekreatiepark
+ 	Waalwijk H1	Vlijmen H1	14:45	Sportp. 'Olympia'
+ZONDAG 4 OKTOBER 2015
+ 	HOCO H1	Dommel H1	14:45	sportp. 'D'n Donk'
+ 	Nuenen H1	Waalwijk H1	14:45	Sportp. Lissevoort
+ 	Oirschot H1	Best H1	14:30	Sportp. 'Moorland'
+ 	Shot H1	Berlicum H1		Univ v. Tilburg
+ 	Son H1	DDHC H1	14:45	Sportp. 'De Gentlaan'
+ 	Vlijmen H1	Drunen H1		Sportp. 'Hoge Heide'
+ZONDAG 11 OKTOBER 2015
+ 	Berlicum H1	Dommel H1	14:45	Sportp. de Brand
+ 	Best H1	Son H1	14:45	Sportp. Leemkuilen
+ 	DDHC H1	Vlijmen H1		Sportp.Kloosterweg
+ 	Drunen H1	Nuenen H1	14:30	Rekreatiepark
+ 	Oirschot H1	HOCO H1	14:30	Sportp. 'Moorland'
+ 	Waalwijk H1	Shot H1		Sportp. 'Olympia'
+ZONDAG 18 OKTOBER 2015
+ 	Dommel H1	Waalwijk H1		Hockeyp. Zegenwerp
+ 	HOCO H1	Berlicum H1	14:45	sportp. 'D'n Donk'
+ 	Nuenen H1	DDHC H1	14:45	Sportp. Lissevoort
+ 	Shot H1	Drunen H1		Univ v. Tilburg
+ 	Son H1	Oirschot H1		Sportp. 'De Gentlaan'
+ 	Vlijmen H1	Best H1		Sportp. 'Hoge Heide'
+ZONDAG 1 NOVEMBER 2015
+ 	Best H1	Nuenen H1	14:45	Sportp. Leemkuilen
+ 	DDHC H1	Shot H1		Sportp.Kloosterweg
+ 	Drunen H1	Dommel H1	14:30	Rekreatiepark
+ 	Oirschot H1	Vlijmen H1	14:30	Sportp. 'Moorland'
+ 	Son H1	HOCO H1		Sportp. 'De Gentlaan'
+ 	Waalwijk H1	Berlicum H1		Sportp. 'Olympia'
+ZONDAG 8 NOVEMBER 2015
+ 	Berlicum H1	Drunen H1	14:45	Sportp. de Brand
+ 	Dommel H1	DDHC H1		Hockeyp. Zegenwerp
+ 	HOCO H1	Waalwijk H1	14:45	sportp. 'D'n Donk'
+ 	Nuenen H1	Oirschot H1		Sportp. Lissevoort
+ 	Shot H1	Best H1		Univ v. Tilburg
+ 	Vlijmen H1	Son H1		Sportp. 'Hoge Heide'
+ZONDAG 15 NOVEMBER 2015
+ 	Best H1	Dommel H1	14:45	Sportp. Leemkuilen
+ 	DDHC H1	Berlicum H1		Sportp.Kloosterweg
+ 	Drunen H1	Waalwijk H1	14:30	Rekreatiepark
+ 	Oirschot H1	Shot H1	14:30	Sportp. 'Moorland'
+ 	Son H1	Nuenen H1		Sportp. 'De Gentlaan'
+ 	Vlijmen H1	HOCO H1		Sportp. 'Hoge Heide'
+ZONDAG 22 NOVEMBER 2015
+ 	Berlicum H1	Best H1	14:45	Sportp. de Brand
+ 	Dommel H1	Oirschot H1		Hockeyp. Zegenwerp
+ 	Drunen H1	HOCO H1	14:30	Rekreatiepark
+ 	Nuenen H1	Vlijmen H1		Sportp. Lissevoort
+ 	Shot H1	Son H1		Univ v. Tilburg
+ 	Waalwijk H1	DDHC H1		Sportp. 'Olympia'
+ZONDAG 29 NOVEMBER 2015
+ 	Best H1	Waalwijk H1	14:45	Sportp. Leemkuilen
+ 	DDHC H1	Drunen H1		Sportp.Kloosterweg
+ 	HOCO H1	Nuenen H1	14:45	sportp. 'D'n Donk'
+ 	Oirschot H1	Berlicum H1	14:30	Sportp. 'Moorland'
+ 	Son H1	Dommel H1		Sportp. 'De Gentlaan'
+ 	Vlijmen H1	Shot H1		Sportp. 'Hoge Heide'
+ZONDAG 13 MAART 2016
+ 	Best H1	Drunen H1		Sportp. Leemkuilen
+ 	HOCO H1	DDHC H1		sportp. 'D'n Donk'
+ 	Nuenen H1	Shot H1		Sportp. Lissevoort
+ 	Oirschot H1	Waalwijk H1		Sportp. 'Moorland'
+ 	Son H1	Berlicum H1		Sportp. 'De Gentlaan'
+ 	Vlijmen H1	Dommel H1		Sportp. 'Hoge Heide'
+ZONDAG 20 MAART 2016
+ 	Berlicum H1	Vlijmen H1		Sportp. de Brand
+ 	DDHC H1	Best H1		Sportp.Kloosterweg
+ 	Dommel H1	Nuenen H1		Hockeyp. Zegenwerp
+ 	Drunen H1	Oirschot H1		Rekreatiepark
+ 	Shot H1	HOCO H1		Univ v. Tilburg
+ 	Waalwijk H1	Son H1		Sportp. 'Olympia'
+ZONDAG 3 APRIL 2016
+ 	HOCO H1	Best H1		sportp. 'D'n Donk'
+ 	Nuenen H1	Berlicum H1		Sportp. Lissevoort
+ 	Oirschot H1	DDHC H1		Sportp. 'Moorland'
+ 	Shot H1	Dommel H1		Univ v. Tilburg
+ 	Son H1	Drunen H1		Sportp. 'De Gentlaan'
+ 	Vlijmen H1	Waalwijk H1		Sportp. 'Hoge Heide'
+ZONDAG 10 APRIL 2016
+ 	Berlicum H1	Shot H1		Sportp. de Brand
+ 	Best H1	Oirschot H1		Sportp. Leemkuilen
+ 	DDHC H1	Son H1		Sportp.Kloosterweg
+ 	Dommel H1	HOCO H1		Hockeyp. Zegenwerp
+ 	Drunen H1	Vlijmen H1		Rekreatiepark
+ 	Waalwijk H1	Nuenen H1		Sportp. 'Olympia'
+ZONDAG 17 APRIL 2016
+ 	Dommel H1	Berlicum H1		Hockeyp. Zegenwerp
+ 	HOCO H1	Oirschot H1		sportp. 'D'n Donk'
+ 	Nuenen H1	Drunen H1		Sportp. Lissevoort
+ 	Shot H1	Waalwijk H1		Univ v. Tilburg
+ 	Son H1	Best H1		Sportp. 'De Gentlaan'
+ 	Vlijmen H1	DDHC H1		Sportp. 'Hoge Heide'
+ZONDAG 24 APRIL 2016
+ 	Berlicum H1	HOCO H1		Sportp. de Brand
+ 	Best H1	Vlijmen H1		Sportp. Leemkuilen
+ 	DDHC H1	Nuenen H1		Sportp.Kloosterweg
+ 	Drunen H1	Shot H1		Rekreatiepark
+ 	Oirschot H1	Son H1		Sportp. 'Moorland'
+ 	Waalwijk H1	Dommel H1		Sportp. 'Olympia'
+ZONDAG 1 MEI 2016
+ 	Berlicum H1	Waalwijk H1		Sportp. de Brand
+ 	Dommel H1	Drunen H1		Hockeyp. Zegenwerp
+ 	HOCO H1	Son H1		sportp. 'D'n Donk'
+ 	Nuenen H1	Best H1		Sportp. Lissevoort
+ 	Shot H1	DDHC H1		Univ v. Tilburg
+ 	Vlijmen H1	Oirschot H1		Sportp. 'Hoge Heide'
+ZONDAG 22 MEI 2016
+ 	Best H1	Shot H1		Sportp. Leemkuilen
+ 	DDHC H1	Dommel H1		Sportp.Kloosterweg
+ 	Drunen H1	Berlicum H1		Rekreatiepark
+ 	Oirschot H1	Nuenen H1		Sportp. 'Moorland'
+ 	Son H1	Vlijmen H1		Sportp. 'De Gentlaan'
+ 	Waalwijk H1	HOCO H1		Sportp. 'Olympia'
+ZONDAG 29 MEI 2016
+ 	Berlicum H1	DDHC H1		Sportp. de Brand
+ 	Dommel H1	Best H1		Hockeyp. Zegenwerp
+ 	HOCO H1	Vlijmen H1		sportp. 'D'n Donk'
+ 	Nuenen H1	Son H1		Sportp. Lissevoort
+ 	Shot H1	Oirschot H1		Univ v. Tilburg
+ 	Waalwijk H1	Drunen H1		Sportp. 'Olympia'
+ZONDAG 5 JUNI 2016
+ 	Best H1	Berlicum H1		Sportp. Leemkuilen
+ 	DDHC H1	Waalwijk H1		Sportp.Kloosterweg
+ 	HOCO H1	Drunen H1		sportp. 'D'n Donk'
+ 	Oirschot H1	Dommel H1		Sportp. 'Moorland'
+ 	Son H1	Shot H1		Sportp. 'De Gentlaan'
+ 	Vlijmen H1	Nuenen H1		Sportp. 'Hoge Heide'
+ZONDAG 12 JUNI 2016
+ 	Berlicum H1	Oirschot H1		Sportp. de Brand
+ 	Dommel H1	Son H1		Hockeyp. Zegenwerp
+ 	Drunen H1	DDHC H1		Rekreatiepark
+ 	Nuenen H1	HOCO H1		Sportp. Lissevoort
+ 	Shot H1	Vlijmen H1		Univ v. Tilburg
+ 	Waalwijk H1	Best H1		Sportp. 'Olympia'

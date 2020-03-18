@@ -1,0 +1,51 @@
+<style>
+    #tabs{                    
+        background: transparent;
+        voice-family: ""}"";
+        voice-family: inherit;
+        padding-left: 0px;
+    }
+    #tabs ul{
+        font: bold 11px Arial, Verdana, sans-serif;
+        margin:0;
+        padding:0;
+        list-style:none;
+    }
+    
+    #tabs li.currenttab{
+        background-color: #00937A;
+        color:#FFCC33;
+    }
+    #tabs li{
+        display:inline;
+        margin:0 2px 0 0;
+        padding:0;
+        text-transform:uppercase;
+    }
+    #tabs a{
+        float:left;
+        background:#DAFFDB url(images/tabs_left.gif) no-repeat left top;
+        margin:0 2px 0 0;
+        padding:0 0 1px 3px;
+        text-decoration:none;
+    }
+    #tabs a span{
+        float:left;
+        display:block;
+        background: transparent url(images/tabs_right.gif) no-repeat right top;
+        padding:4px 9px 2px 6px;
+    }
+    #tabs a span{float:none;}
+    #tabs a:hover{background-color: #00937A;color: #FFCC33;}
+    #tabs a:hover span{background-color: #00937A;}
+    #tabHeaderActive span, #tabHeaderActive a { background-color: #00937A; color:#FFCC33;}
+    .tabContent {
+        clear:both;
+        border-bottom:1px solid #00937A;
+        border-top:1px solid #00937A;
+        padding-top:0px;
+        padding-left: 5px;
+        background-color:#DAFFDB;
+        overflow: auto;
+    } 
+</style>
