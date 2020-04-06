@@ -216,6 +216,7 @@ function head2head($wedid, $nr, $visible){
 }
 
 function verslag($wedid, $nr, $visible){
+    $vis = "";
     if(!$visible)
         $vis = " style=\"display:none\"";
     $wedstrijd = new Wedstrijd($wedid);
@@ -228,9 +229,9 @@ function verslag($wedid, $nr, $visible){
         else{
             $text = str_replace("</TITLE>", "</b>", $text);
             $text = str_replace("<TITLE>", "<b style=\"font-size:16px\">", $text);
-            $text = str_replace("’", "'", $text);
-            $text = str_replace("“", "\"", $text);
-            $text = str_replace("”", "\"", $text); 
+            $text = str_replace("ï¿½", "'", $text);
+            $text = str_replace("ï¿½", "\"", $text);
+            $text = str_replace("ï¿½", "\"", $text); 
             $text = strip_tags($text, "<i><u><b><hr>");
             $text = htmlentities($text);
             $text = str_replace("&lt;", "<", $text); 
