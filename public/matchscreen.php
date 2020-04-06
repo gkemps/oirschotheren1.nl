@@ -105,6 +105,7 @@ print "</body>";
 print "</html>";
 
 function match_sheet($wedid, $nr, $visible){
+    $vis = "";
     if(!$visible)
         $vis = " style=\"display:none\"";
     $wedstrijd = new Wedstrijd($wedid);
