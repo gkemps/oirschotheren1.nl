@@ -1,2 +1,2 @@
 <?php
-	header("location: spelers_oat.php");
+    require_once("spelers_oat.php");
