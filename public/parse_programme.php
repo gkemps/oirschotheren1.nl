@@ -73,7 +73,7 @@
 
 						"(".ceil($i/6).")]";
 
-			 //$wedstrijd->insert($datum, $team1->getId(), $team2->getId(), ceil($i/6));
+			 $wedstrijd->insert($datum, $team1->getId(), $team2->getId(), ceil($i/6));
 
 			$i++;
 

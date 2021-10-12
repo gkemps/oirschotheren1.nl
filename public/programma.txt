@@ -1,154 +1,154 @@
-ZONDAG 9 SEPTEMBER 2018
-Nova H1	Son H1	2-1	Definitief
-Boxmeer H1	HOCO H1	2-0	Definitief
-MOP H1	Nuth H1	3-2	Definitief
-Venray H1	Bemmel H1	4-1	Definitief
-DVS H1	Dommel H1	6-0	Definitief
-Tegelen H1	Oirschot H1	1-3	Definitief
-ZONDAG 16 SEPTEMBER 2018
-Son H1	Tegelen H1	6-4	Definitief
-Oirschot H1	Venray H1	2-5	Definitief
-Bemmel H1	DVS H1	6-1	Definitief
-Dommel H1	MOP H1	5-8	Definitief
-Nuth H1	Boxmeer H1	0-4	Definitief
-HOCO H1	Nova H1	4-1	Definitief
-ZONDAG 23 SEPTEMBER 2018
-MOP H1	Bemmel H1	1-1	Definitief
-Nova H1	Boxmeer H1	1-3	Definitief
-DVS H1	Oirschot H1	2-6	Definitief
-Tegelen H1	HOCO H1	2-1	Definitief
-Venray H1	Son H1	13-1	Definitief
-Dommel H1	Nuth H1	5-2	Definitief
-ZONDAG 30 SEPTEMBER 2018
-	Bemmel H1	Dommel H1	14:45	Sportp. Ressen
-	Boxmeer H1	Tegelen H1	14:45	De Sloot
-	HOCO H1	Venray H1	14:45	sportp. 'D'n Donk'
-	Nuth H1	Nova H1	14:45	Sportp. 'De Kollenberg'
-	Oirschot H1	MOP H1	14:30	Sportp. 'Moorland'
-	Son H1	DVS H1	14:45	Sportpark De Gentiaan
-ZONDAG 7 OKTOBER 2018
-	Bemmel H1	Nuth H1	14:45	Sportp. Ressen
-	DVS H1	HOCO H1	14:45	Sportp. Arembergstraat
-	Dommel H1	Oirschot H1	14:45	Hockeyp. Zegenwerp
-	MOP H1	Son H1	14:45	Sportp. Bergenshuizen
-	Tegelen H1	Nova H1	14:45	Sportpark "Vrijenbroek"
-	Venray H1	Boxmeer H1	14:45	Sportp. 'De Wieën'
-ZONDAG 14 OKTOBER 2018
-	Boxmeer H1	DVS H1	14:45	De Sloot
-	HOCO H1	MOP H1	14:45	sportp. 'D'n Donk'
-	Nova H1	Venray H1	14:45	Sportp. 'De Kaldeborn'
-	Nuth H1	Tegelen H1	14:45	Sportp. 'De Kollenberg'
-	Oirschot H1	Bemmel H1	14:45	Sportp. 'Moorland'
-	Son H1	Dommel H1	14:45	Sportpark De Gentiaan
-ZONDAG 28 OKTOBER 2018
-	Bemmel H1	Son H1		Sportp. Ressen
-	DVS H1	Nova H1	14:45	Sportp. Arembergstraat
-	Dommel H1	HOCO H1	14:45	Hockeyp. Zegenwerp
-	MOP H1	Boxmeer H1	14:45	Sportp. Bergenshuizen
-	Oirschot H1	Nuth H1	14:45	Sportp. 'Moorland'
-	Venray H1	Tegelen H1	14:45	Sportp. 'De Wieën'
-ZONDAG 4 NOVEMBER 2018
-	Boxmeer H1	Dommel H1	14:45	De Sloot
-	HOCO H1	Bemmel H1		sportp. 'D'n Donk'
-	Nova H1	MOP H1	14:45	Sportp. 'De Kaldeborn'
-	Nuth H1	Venray H1	14:45	Sportp. 'De Kollenberg'
-	Son H1	Oirschot H1	14:45	Sportpark De Gentiaan
-	Tegelen H1	DVS H1	14:45	Sportpark "Vrijenbroek"
-ZONDAG 11 NOVEMBER 2018
-	Bemmel H1	Boxmeer H1		Sportp. Ressen
-	DVS H1	Venray H1	14:45	Sportp. Arembergstraat
-	Dommel H1	Nova H1	14:45	Hockeyp. Zegenwerp
-	MOP H1	Tegelen H1	14:45	Sportp. Bergenshuizen
-	Oirschot H1	HOCO H1	14:45	Sportp. 'Moorland'
-	Son H1	Nuth H1	14:45	Sportpark De Gentiaan
-ZONDAG 18 NOVEMBER 2018
-	Boxmeer H1	Oirschot H1	14:45	De Sloot
-	DVS H1	Nuth H1	14:45	Sportp. Arembergstraat
-	HOCO H1	Son H1		sportp. 'D'n Donk'
-	Nova H1	Bemmel H1	14:45	Sportp. 'De Kaldeborn'
-	Tegelen H1	Dommel H1	14:45	Sportpark "Vrijenbroek"
-	Venray H1	MOP H1	14:45	Sportp. 'De Wieën'
-ZONDAG 25 NOVEMBER 2018
-	Bemmel H1	Tegelen H1		Sportp. Ressen
-	Dommel H1	Venray H1	14:45	Hockeyp. Zegenwerp
-	MOP H1	DVS H1	14:45	Sportp. Bergenshuizen
-	Nuth H1	HOCO H1	14:45	Sportp. 'De Kollenberg'
-	Oirschot H1	Nova H1	14:45	Sportp. 'Moorland'
-	Son H1	Boxmeer H1	14:45	Sportpark De Gentiaan
-ZONDAG 10 MAART 2019
-	Bemmel H1	Venray H1		Sportp. Ressen
-	Dommel H1	DVS H1		Hockeyp. Zegenwerp
-	HOCO H1	Boxmeer H1		sportp. 'D'n Donk'
-	Nuth H1	MOP H1		Sportp. 'De Kollenberg'
-	Oirschot H1	Tegelen H1		Sportp. 'Moorland'
-	Son H1	Nova H1		Sportpark De Gentiaan
-ZONDAG 17 MAART 2019
-	Boxmeer H1	Nuth H1	14:45	De Sloot
-	DVS H1	Bemmel H1		Sportp. Arembergstraat
-	MOP H1	Dommel H1	14:45	Sportp. Bergenshuizen
-	Nova H1	HOCO H1		Sportp. 'De Kaldeborn'
-	Tegelen H1	Son H1	14:45	Sportpark "Vrijenbroek"
-	Venray H1	Oirschot H1	14:45	Sportp. 'De Wieën'
-ZONDAG 24 MAART 2019
-	Bemmel H1	MOP H1		Sportp. Ressen
-	Boxmeer H1	Nova H1	14:45	De Sloot
-	HOCO H1	Tegelen H1		sportp. 'D'n Donk'
-	Nuth H1	Dommel H1		Sportp. 'De Kollenberg'
-	Oirschot H1	DVS H1		Sportp. 'Moorland'
-	Son H1	Venray H1		Sportpark De Gentiaan
-ZONDAG 31 MAART 2019
-	DVS H1	Son H1		Sportp. Arembergstraat
-	Dommel H1	Bemmel H1		Hockeyp. Zegenwerp
-	MOP H1	Oirschot H1	14:45	Sportp. Bergenshuizen
-	Nova H1	Nuth H1		Sportp. 'De Kaldeborn'
-	Tegelen H1	Boxmeer H1	14:45	Sportpark "Vrijenbroek"
-	Venray H1	HOCO H1	14:45	Sportp. 'De Wieën'
-ZONDAG 7 APRIL 2019
-	Boxmeer H1	Venray H1	14:45	De Sloot
-	HOCO H1	DVS H1		sportp. 'D'n Donk'
-	Nova H1	Tegelen H1		Sportp. 'De Kaldeborn'
-	Nuth H1	Bemmel H1		Sportp. 'De Kollenberg'
-	Oirschot H1	Dommel H1		Sportp. 'Moorland'
-	Son H1	MOP H1		Sportpark De Gentiaan
-ZONDAG 14 APRIL 2019
-	Bemmel H1	Oirschot H1		Sportp. Ressen
-	DVS H1	Boxmeer H1		Sportp. Arembergstraat
-	Dommel H1	Son H1		Hockeyp. Zegenwerp
-	MOP H1	HOCO H1	14:45	Sportp. Bergenshuizen
-	Tegelen H1	Nuth H1	14:45	Sportpark "Vrijenbroek"
-	Venray H1	Nova H1	14:45	Sportp. 'De Wieën'
-ZONDAG 5 MEI 2019
-	Boxmeer H1	MOP H1	14:45	De Sloot
-	HOCO H1	Dommel H1		sportp. 'D'n Donk'
-	Nova H1	DVS H1		Sportp. 'De Kaldeborn'
-	Nuth H1	Oirschot H1		Sportp. 'De Kollenberg'
-	Son H1	Bemmel H1		Sportpark De Gentiaan
-	Tegelen H1	Venray H1	14:45	Sportpark "Vrijenbroek"
-ZONDAG 12 MEI 2019
-	Bemmel H1	HOCO H1		Sportp. Ressen
-	DVS H1	Tegelen H1		Sportp. Arembergstraat
-	Dommel H1	Boxmeer H1		Hockeyp. Zegenwerp
-	MOP H1	Nova H1	14:45	Sportp. Bergenshuizen
-	Oirschot H1	Son H1		Sportp. 'Moorland'
-	Venray H1	Nuth H1	14:45	Sportp. 'De Wieën'
-ZONDAG 19 MEI 2019
-	Boxmeer H1	Bemmel H1	14:45	De Sloot
-	HOCO H1	Oirschot H1		sportp. 'D'n Donk'
-	Nova H1	Dommel H1		Sportp. 'De Kaldeborn'
-	Nuth H1	Son H1		Sportp. 'De Kollenberg'
-	Tegelen H1	MOP H1	14:45	Sportpark "Vrijenbroek"
-	Venray H1	DVS H1	14:45	Sportp. 'De Wieën'
-ZONDAG 26 MEI 2019
-	Bemmel H1	Nova H1		Sportp. Ressen
-	Dommel H1	Tegelen H1		Hockeyp. Zegenwerp
-	MOP H1	Venray H1	14:45	Sportp. Bergenshuizen
-	Nuth H1	DVS H1		Sportp. 'De Kollenberg'
-	Oirschot H1	Boxmeer H1		Sportp. 'Moorland'
-	Son H1	HOCO H1		Sportpark De Gentiaan
-ZONDAG 2 JUNI 2019
-	Boxmeer H1	Son H1	14:45	De Sloot
-	DVS H1	MOP H1		Sportp. Arembergstraat
-	HOCO H1	Nuth H1		sportp. 'D'n Donk'
-	Nova H1	Oirschot H1		Sportp. 'De Kaldeborn'
-	Tegelen H1	Bemmel H1	14:45	Sportpark "Vrijenbroek"
-	Venray H1	Dommel H1	14:45	Sportp. 'De Wieën'
+ZONDAG 12 SEPTEMBER 2021
+  	Bommelerwaard H1	Waalwijk H1	5-1	Definitief
+  	Oirschot H1	Horst H1	0-3	Definitief
+  	MOP H1	Boxmeer H1	1-3	Definitief
+  	Wijchen H1	Deurne H1	7-0	Definitief
+  	HOCO H1	Don Quishoot H1	2-2	Definitief
+  	Civicum H1	Liberty H1	4-4	Definitief
+ZONDAG 19 SEPTEMBER 2021
+  	Deurne H1	Oirschot H1	2-5	Definitief
+  	Liberty H1	HOCO H1	7-5	Definitief
+  	Boxmeer H1	Bommelerwaard H1	1-1	Definitief
+  	Waalwijk H1	Wijchen H1	1-5	Definitief
+  	Don Quishoot H1	MOP H1	7-1	Definitief
+  	Horst H1	Civicum H1	2-1	Definitief
+ZONDAG 26 SEPTEMBER 2021
+  	MOP H1	Liberty H1	2-3	Definitief
+  	Oirschot H1	Wijchen H1	3-2	Definitief
+  	HOCO H1	Horst H1	1-2	Definitief
+  	Bommelerwaard H1	Don Quishoot H1	2-6	Definitief
+  	Boxmeer H1	Waalwijk H1	3-1	Definitief
+  	Civicum H1	Deurne H1	6-0	Definitief
+ZONDAG 3 OKTOBER 2021
+  	Liberty H1	Bommelerwaard H1	4-3	Definitief
+  	Deurne H1	HOCO H1	2-4	Definitief
+  	Waalwijk H1	Oirschot H1	2-1	Definitief
+  	Horst H1	MOP H1	7-1	Definitief
+  	Don Quishoot H1	Boxmeer H1	10-0	Definitief
+  	Wijchen H1	Civicum H1	2-7	Definitief
+ZONDAG 10 OKTOBER 2021
+  	Boxmeer H1	Liberty H1	4-4	Definitief
+  	Bommelerwaard H1	Horst H1	0-4	Definitief
+  	HOCO H1	Wijchen H1	2-3	Definitief
+  	Don Quishoot H1	Waalwijk H1	4-1	Definitief
+  	Civicum H1	Oirschot H1	1-0	Definitief
+  	MOP H1	Deurne H1	9-3	Definitief
+ZONDAG 17 OKTOBER 2021
+ 	Deurne H1	Bommelerwaard H1	14:45	sportp. 'De Kranenmortel'
+ 	Horst H1	Boxmeer H1	14:45	De Oude Lind
+ 	Liberty H1	Don Quishoot H1	14:45	Sportpark Alexander
+ 	Oirschot H1	HOCO H1	14:45	Sportpark 'Moorland'
+ 	Waalwijk H1	Civicum H1	14:45	Sportp. 'Olympia'
+ 	Wijchen H1	MOP H1	14:45	Sportpark Oosterweg
+ZONDAG 31 OKTOBER 2021
+ 	Bommelerwaard H1	Wijchen H1	14:45	Sportcomplex 'De Watertoren'
+ 	Boxmeer H1	Deurne H1	14:45	De Sloot
+ 	Don Quishoot H1	Horst H1	14:45	S Sport Centrum (T.U.)
+ 	HOCO H1	Civicum H1	14:45	sportp. 'D'n Donk'
+ 	Liberty H1	Waalwijk H1	14:45	Sportpark Alexander
+ 	MOP H1	Oirschot H1	14:45	Sportp. Bergenshuizen
+ZONDAG 7 NOVEMBER 2021
+ 	Civicum H1	MOP H1	14:45	Sportp. 'De Groenendijkse Kampen'
+ 	Deurne H1	Don Quishoot H1	14:45	sportp. 'De Kranenmortel'
+ 	Horst H1	Liberty H1	14:45	De Oude Lind
+ 	Oirschot H1	Bommelerwaard H1	14:45	Sportpark 'Moorland'
+ 	Waalwijk H1	HOCO H1	14:45	Sportp. 'Olympia'
+ 	Wijchen H1	Boxmeer H1	14:45	Sportpark Oosterweg
+ZONDAG 14 NOVEMBER 2021
+ 	Bommelerwaard H1	Civicum H1	14:45	Sportcomplex 'De Watertoren'
+ 	Boxmeer H1	Oirschot H1	14:45	De Sloot
+ 	Don Quishoot H1	Wijchen H1	14:45	S Sport Centrum (T.U.)
+ 	Horst H1	Waalwijk H1	14:45	De Oude Lind
+ 	Liberty H1	Deurne H1	14:45	Sportpark Alexander
+ 	MOP H1	HOCO H1	14:45	Sportp. Bergenshuizen
+ZONDAG 21 NOVEMBER 2021
+ 	Civicum H1	Boxmeer H1	14:45	Sportp. 'De Groenendijkse Kampen'
+ 	Deurne H1	Horst H1	14:45	sportp. 'De Kranenmortel'
+ 	HOCO H1	Bommelerwaard H1	14:45	sportp. 'D'n Donk'
+ 	MOP H1	Waalwijk H1	14:45	Sportp. Bergenshuizen
+ 	Oirschot H1	Don Quishoot H1	14:45	Sportpark 'Moorland'
+ 	Wijchen H1	Liberty H1	14:45	Sportpark Oosterweg
+ZONDAG 28 NOVEMBER 2021
+ 	Bommelerwaard H1	MOP H1	14:45	Sportcomplex 'De Watertoren'
+ 	Boxmeer H1	HOCO H1	14:45	De Sloot
+ 	Don Quishoot H1	Civicum H1	14:45	S Sport Centrum (T.U.)
+ 	Horst H1	Wijchen H1	14:45	De Oude Lind
+ 	Liberty H1	Oirschot H1	14:45	Sportpark Alexander
+ 	Waalwijk H1	Deurne H1	14:45	Sportp. 'Olympia'
+ZONDAG 13 MAART 2022
+ 	Boxmeer H1	MOP H1	14:45	De Sloot
+ 	Deurne H1	Wijchen H1	14:45	sportp. 'De Kranenmortel'
+ 	Don Quishoot H1	HOCO H1		S Sport Centrum (T.U.)
+ 	Horst H1	Oirschot H1		De Oude Lind
+ 	Liberty H1	Civicum H1		Sportpark Alexander
+ 	Waalwijk H1	Bommelerwaard H1		Sportp. 'Olympia'
+ZONDAG 20 MAART 2022
+ 	Bommelerwaard H1	Boxmeer H1	14:45	Sportcomplex 'De Watertoren'
+ 	Civicum H1	Horst H1		Sportp. 'De Groenendijkse Kampen'
+ 	HOCO H1	Liberty H1		sportp. 'D'n Donk'
+ 	MOP H1	Don Quishoot H1		Sportp. Bergenshuizen
+ 	Oirschot H1	Deurne H1		Sportpark 'Moorland'
+ 	Wijchen H1	Waalwijk H1		Sportpark Oosterweg
+ZONDAG 27 MAART 2022
+ 	Deurne H1	Civicum H1	14:45	sportp. 'De Kranenmortel'
+ 	Don Quishoot H1	Bommelerwaard H1		S Sport Centrum (T.U.)
+ 	Horst H1	HOCO H1		De Oude Lind
+ 	Liberty H1	MOP H1		Sportpark Alexander
+ 	Waalwijk H1	Boxmeer H1		Sportp. 'Olympia'
+ 	Wijchen H1	Oirschot H1		Sportpark Oosterweg
+ZONDAG 3 APRIL 2022
+ 	Bommelerwaard H1	Liberty H1	14:45	Sportcomplex 'De Watertoren'
+ 	Boxmeer H1	Don Quishoot H1	14:45	De Sloot
+ 	Civicum H1	Wijchen H1		Sportp. 'De Groenendijkse Kampen'
+ 	HOCO H1	Deurne H1		sportp. 'D'n Donk'
+ 	MOP H1	Horst H1		Sportp. Bergenshuizen
+ 	Oirschot H1	Waalwijk H1		Sportpark 'Moorland'
+ZONDAG 10 APRIL 2022
+ 	Deurne H1	MOP H1	14:45	sportp. 'De Kranenmortel'
+ 	Horst H1	Bommelerwaard H1		De Oude Lind
+ 	Liberty H1	Boxmeer H1		Sportpark Alexander
+ 	Oirschot H1	Civicum H1		Sportpark 'Moorland'
+ 	Waalwijk H1	Don Quishoot H1		Sportp. 'Olympia'
+ 	Wijchen H1	HOCO H1		Sportpark Oosterweg
+ZONDAG 24 APRIL 2022
+ 	Bommelerwaard H1	Deurne H1	14:45	Sportcomplex 'De Watertoren'
+ 	Boxmeer H1	Horst H1	14:45	De Sloot
+ 	Civicum H1	Waalwijk H1		Sportp. 'De Groenendijkse Kampen'
+ 	Don Quishoot H1	Liberty H1		S Sport Centrum (T.U.)
+ 	HOCO H1	Oirschot H1		sportp. 'D'n Donk'
+ 	MOP H1	Wijchen H1		Sportp. Bergenshuizen
+ZONDAG 8 MEI 2022
+ 	Civicum H1	HOCO H1		Sportp. 'De Groenendijkse Kampen'
+ 	Deurne H1	Boxmeer H1	14:45	sportp. 'De Kranenmortel'
+ 	Horst H1	Don Quishoot H1		De Oude Lind
+ 	Oirschot H1	MOP H1		Sportpark 'Moorland'
+ 	Waalwijk H1	Liberty H1		Sportp. 'Olympia'
+ 	Wijchen H1	Bommelerwaard H1		Sportpark Oosterweg
+ZONDAG 15 MEI 2022
+ 	Bommelerwaard H1	Oirschot H1	14:45	Sportcomplex 'De Watertoren'
+ 	Boxmeer H1	Wijchen H1	14:45	De Sloot
+ 	Don Quishoot H1	Deurne H1		S Sport Centrum (T.U.)
+ 	HOCO H1	Waalwijk H1		sportp. 'D'n Donk'
+ 	Liberty H1	Horst H1		Sportpark Alexander
+ 	MOP H1	Civicum H1		Sportp. Bergenshuizen
+ZONDAG 22 MEI 2022
+ 	Civicum H1	Bommelerwaard H1		Sportp. 'De Groenendijkse Kampen'
+ 	Deurne H1	Liberty H1	14:45	sportp. 'De Kranenmortel'
+ 	HOCO H1	MOP H1		sportp. 'D'n Donk'
+ 	Oirschot H1	Boxmeer H1		Sportpark 'Moorland'
+ 	Waalwijk H1	Horst H1		Sportp. 'Olympia'
+ 	Wijchen H1	Don Quishoot H1		Sportpark Oosterweg
+ZONDAG 29 MEI 2022
+ 	Bommelerwaard H1	HOCO H1	14:45	Sportcomplex 'De Watertoren'
+ 	Boxmeer H1	Civicum H1	14:45	De Sloot
+ 	Don Quishoot H1	Oirschot H1		S Sport Centrum (T.U.)
+ 	Horst H1	Deurne H1		De Oude Lind
+ 	Liberty H1	Wijchen H1		Sportpark Alexander
+ 	Waalwijk H1	MOP H1		Sportp. 'Olympia'
+ZONDAG 12 JUNI 2022
+ 	Civicum H1	Don Quishoot H1		Sportp. 'De Groenendijkse Kampen'
+ 	Deurne H1	Waalwijk H1	14:45	sportp. 'De Kranenmortel'
+ 	HOCO H1	Boxmeer H1		sportp. 'D'n Donk'
+ 	MOP H1	Bommelerwaard H1		Sportp. Bergenshuizen
+ 	Oirschot H1	Liberty H1		Sportpark 'Moorland'
+ 	Wijchen H1	Horst H1		Sportpark Oosterweg
