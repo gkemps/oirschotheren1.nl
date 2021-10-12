@@ -51,7 +51,7 @@
 							" class=\"player_picture\">\r\n";
 				print "</td>\r\n";
 				print "<td>\r\n";
-					print "<b>Caspar van Rooij</b>\r\n";
+					print "<b>Zeeshan Ali</b>\r\n";
 				print "</td>\r\n";
 			print "</tr>\r\n";
 			print "<tr>\r\n";
@@ -88,7 +88,7 @@
 		$spelers = $seizoen->getPlayers();
 		$derde = ceil(count($spelers)/3);
         $show_coach = true;
-        $show_manager = true;
+        $show_manager = false;
 		print "<table cellspacing=\"10\">\r\n";
 		for($i=0;$i<$derde;$i++){
 			print "<tr>\r\n";

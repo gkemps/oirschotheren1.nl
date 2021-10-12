@@ -51,7 +51,7 @@ foreach($spelers as $speler){
         $nrcards = count($speler->getCards())+ $vroegah->getTotalCards($spid);
         
         $seizoen = new Seizoen();
-        $seizoen->setSeason("2017-09-01");
+        $seizoen->setSeason(date("Y-m-d"));
         $sid = $seizoen->getId();
         $nrsmatches =   count($speler->getMatches($sid));
         $nrsbenchmatches = count($speler->getBenchMatches($sid));

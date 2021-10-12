@@ -74,7 +74,7 @@ END;
 				        <a href="#" class="amenu" rel="spelers">Spelers</a>
 				        <a href="#" class="amenu" rel="teams">Teams</a>
 				        <a href="#" class="amenu" rel="milestones">Milestones</a>
-				        <a href="#" class="amenu" rel="statistiek">&nbsp</a>
+				        <a href="#" class="amenu" rel="seizoen">Dit seizoen</a>
 				        <a href="#" class="amenu" rel="gastenboek">&nbsp</a>
 				        <a href="#" class="amenu" rel="multimedia">&nbsp</a>
 				        <a href="#" class="amenu" rel="home">&nbsp</a>
@@ -100,6 +100,14 @@ END;
 					     <a href="debuut_assist.php" class="dropdown">
 					        Eerste assist</a>  
 					</div>
+					
+					<div id="seizoen" class="dropmenudiv">
+					    <a href="svz.php" class="dropdown">
+					        Stand van zaken</a>
+						<a href="rangen_standen.php" class="dropdown">
+					        Topscoorders</a>
+					</div>
+					
 					
 					
 					<script type="text/javascript">

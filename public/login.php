@@ -1,11 +1,11 @@
 <?php
 session_start();
-//if($_POST['submit']){
-//    if($_POST['password']=="fluffers" || $_POST['password'] == "\$helly"){
-//        $_SESSION['loggedin'] = true;
-//        header("location:invoer.php");
-//    }
-//}
+if($_POST['submit']){
+    if($_POST['password']=="fluffers" || $_POST['password'] == "\$helly" || $_POST['password'] == "Yor!ck"){
+        $_SESSION['loggedin'] = true;
+        header("location:invoer.php");
+    }
+}
 print "<html>";
 
     print "<head>";
