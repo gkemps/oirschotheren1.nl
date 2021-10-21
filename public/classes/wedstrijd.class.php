@@ -77,6 +77,8 @@ class Wedstrijd{
 		$fields['Scoreuit'] = $uit;
 		$fields['Gespeeld'] = "ja";
 		$keys['id'] = $this->id;
+		print_r($fields);
+		print_r($keys);
 		$this->db->update($this->table, $fields, $keys);
 	}
 	
