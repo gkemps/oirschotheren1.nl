@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 session_start();
 
-if(!$_SESSION['loggedin']){
+if(!isset($_SESSION['loggedin']) || !$_SESSION['loggedin']){
     header("location: login.php");
 }
 else{

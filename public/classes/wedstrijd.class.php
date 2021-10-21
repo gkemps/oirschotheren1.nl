@@ -138,11 +138,11 @@ class Wedstrijd{
 	function getLastPlayed($teamid, $nr, $peildatum = null){
         if(is_null($peildatum))
 		    $ids = $this->db->queryMany("SELECT id FROM ".$this->table." WHERE ".
-				" (Thuis = '".$teamid."' OR Uit = '".$teamid."') AND Scorethuis IS NOT NULL ".
+				" (Thuis = '".$teamid."' OR Uit = '".$teamid."') AND Gespeeld = \"ja\" AND Scorethuis IS NOT NULL ".
 				" ORDER BY Datum DESC LIMIT $nr");
         else
             $ids = $this->db->queryMany("SELECT id FROM ".$this->table." WHERE ".
-                " (Thuis = '".$teamid."' OR Uit = '".$teamid."') AND Scorethuis IS NOT NULL ".
+                " (Thuis = '".$teamid."' OR Uit = '".$teamid."') AND Gespeeld = \"ja\" AND Scorethuis IS NOT NULL ".
                 " AND Datum < '".$peildatum."' ORDER BY Datum DESC LIMIT $nr");   
 		$result = array();
 		foreach($ids as $id){
@@ -153,7 +153,7 @@ class Wedstrijd{
 	
 	function getNextPlayed($teamid, $nr){
 		$ids = $this->db->queryMany("SELECT id FROM ".$this->table." WHERE ".
-				" (Thuis = '".$teamid."' OR Uit = '".$teamid."') AND Scorethuis IS NULL ".
+				" (Thuis = '".$teamid."' OR Uit = '".$teamid."') AND Gespeeld = \"nee\" AND Scorethuis IS NULL ".
 				" ORDER BY Datum ASC LIMIT $nr");
 		$result = array();
 		foreach($ids as $id){
