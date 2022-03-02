@@ -43,7 +43,7 @@ function goal_scored (drag, drop){
 	pos_id = drop.id.substring(us_pos + 1, drop.id.length)
 
 	//bepaal aangever
-	var vraag = window.prompt('Wie gaf de assist?\n\nGeef een speler met gehele naam, bijv (Bart van Straten)\n of 1 van de volgende opties:\n\n- strafcorner\n- strafbal\n- rebound\n-  individuele actie\n- scrimage\n- strafdoelpunt');
+	var vraag = window.prompt('Wie gaf de assist?\n\nGeef een speler met gehele naam, bijv (Yorick van Leuven)\n of 1 van de volgende opties:\n\n- strafcorner\n- strafbal\n- rebound\n- individuele actie\n- scrimage');
 	var aangever;
 	
 	new Ajax.Request('ajax_speelronde.php?c=5',{parameters: {aangever: vraag, wedid: $F('wedid')}, 
