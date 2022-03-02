@@ -82,7 +82,11 @@
          */
         {
             global $connection;
-            $result = $connection->query($query) or die(mysql_error()."(".$query.")");
+            $result = $connection->query($query);
+            if (!$result) {
+                print_r($connection->errorInfo());
+                die();
+            }
              
             $array = [];
             foreach ($result as $row) {

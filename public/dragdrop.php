@@ -86,7 +86,7 @@ else{
 
 					for($i=0;$i<$line;$i++){
 
-					 	$width = 100 / count($line);
+					 	$width = 100 / $line;
 
 					 	$pos = array_pop($positions);
 
