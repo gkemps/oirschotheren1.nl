@@ -211,6 +211,7 @@
 
                 try {
                     $connection->beginTransaction();
+                    print $query;
                     $connection->query($query);
                     $connection->commit();
 
