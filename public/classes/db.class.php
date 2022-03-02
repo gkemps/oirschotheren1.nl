@@ -215,7 +215,7 @@
 
                     return true;
                 } catch (Exception $e) {
-                    $connection->rollBack();
+                    //$connection->rollBack();
                     print_r($e);
                     die('stop!');
                 }
