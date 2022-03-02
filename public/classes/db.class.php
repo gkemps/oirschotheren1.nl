@@ -210,12 +210,12 @@
                 $query = substr($query, 0, -5);
 
                 try {
+                    $connection->beginTransaction();
                     $connection->query($query);
                     $connection->commit();
 
                     return true;
                 } catch (Exception $e) {
-                    //$connection->rollBack();
                     print_r($e);
                     die('stop!');
                 }
