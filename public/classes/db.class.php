@@ -209,21 +209,7 @@
                 }
                 $query = substr($query, 0, -5);
 
-                try {
-                    $connection->beginTransaction();
-                    $result = $connection->exec($query);
-                    if (!$result) {
-                        var_dump($connection->errorInfo());
-                    }
-                    $connection->commit();
-
-                    return true;
-                } catch (Exception $e) {
-                    print_r($e);
-                    die('stop!');
-                }
-
-                return false;
+                return $connection->query($query);
             } else
             {
                 return false;
