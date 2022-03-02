@@ -211,7 +211,8 @@
 
                 try {
                     $connection->beginTransaction();
-                    $connection->exec($query);
+                    $result = $connection->exec($query);
+                    var_dump($result);
                     $connection->commit();
 
                     return true;
