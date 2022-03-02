@@ -212,7 +212,9 @@
                 try {
                     $connection->beginTransaction();
                     $result = $connection->exec($query);
-                    var_dump($result);
+                    if (!$result) {
+                        var_dump($connection->errorInfo());
+                    }
                     $connection->commit();
 
                     return true;
