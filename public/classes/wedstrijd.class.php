@@ -114,7 +114,7 @@ class Wedstrijd{
 					" programma as p, deelnemingspelers as d, seizoenen as s ".
 					"WHERE p.id = '".$this->id."' ".
 					"AND d.spelersid = sp.id AND d.seizoenid = s.id AND ".
-					"s.id = '".$seizoen->getId());
+					"s.id = '".$seizoen->getId()."'");
 		$result = array();
 		foreach($ids as $id){
 		 	if(!in_array($id, $selected)){
