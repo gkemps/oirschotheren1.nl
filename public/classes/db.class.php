@@ -210,12 +210,7 @@
                 $query = substr($query, 0, -5);
 
                 try {
-                    $connection->beginTransaction();
-                    $result1 = $connection->query($query);
-                    $result2 = $connection->commit();
-
-                    var_dump($result1);
-                    var_dump($result2);
+                    $connection->exec($query);
 
                     return true;
                 } catch (Exception $e) {
