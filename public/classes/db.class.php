@@ -209,7 +209,16 @@
                 }
                 $query = substr($query, 0, -5);
 
-                return  $connection->query($query);
+                try {
+                    $connection->query($query);
+                    $connection->commit();
+
+                    return true;
+                } catch (Exception $e) {
+                    $connection->rollBack();
+                }
+
+                return false;
             } else
             {
                 return false;
