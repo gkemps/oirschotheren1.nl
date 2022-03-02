@@ -211,9 +211,11 @@
 
                 try {
                     $connection->beginTransaction();
-                    print $query;
-                    $connection->query($query);
-                    $connection->commit();
+                    $result1 = $connection->query($query);
+                    $result2 = $connection->commit();
+
+                    var_dump($result1);
+                    var_dump($result2);
 
                     return true;
                 } catch (Exception $e) {
