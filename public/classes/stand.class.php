@@ -34,7 +34,7 @@
         
         function insert($team){
 			  $punten = 0;
-			  if ($team->getId() == 31) {
+			  if ($team->getId() == 23) {
 				  $punten = -3;
 			  }
               $this->stand[$team->getId()] = array("teamnaam" => $team->toString(),

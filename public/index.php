@@ -1,2 +1,2 @@
 <?php
-    require_once("spelers_oat.php");
+    require_once("svz.php");
