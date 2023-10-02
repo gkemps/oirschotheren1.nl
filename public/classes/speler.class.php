@@ -89,6 +89,12 @@ class Speler {
 			$im = imagecreatefromjpeg($photo);
 			imagejpeg($im);
 		}
+		$photo = getcwd()."/images/pasfotos/".$this->id.".png";
+		if(file_exists($photo)){
+			header("Content-Type: image/png");
+		   $im = imagecreatefrompng($photo);
+		   imagejpeg($im);
+	   }
 		else{
 			header("Content-Type: image/jpeg");
 			$im = imagecreatefromjpeg(getcwd()."/images/pasfotos/nophoto.jpg");
