@@ -47,7 +47,7 @@
 		print "<table width=\"225px\" class=\"border_inv\" border=\"0\" id=\"speler_$i\">\r\n";
 			print "<tr>\r\n";
 				print "<td rowspan=\"3\" width=\"60px\" class=\"player_picture\">\r\n";
-					print "<img src=\"spelerfoto.php?id=99\" ".
+					print "<img src=\"images/pasfotos/zeeshan.png\" ".
 							" class=\"player_picture\">\r\n";
 				print "</td>\r\n";
 				print "<td>\r\n";
